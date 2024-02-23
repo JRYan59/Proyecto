@@ -14,7 +14,9 @@ Además, la diversidad de dispositivos y sistemas operativos presentes en el ent
 Por lo tanto, el desarrollo de una aplicación de gestión de inventario utilizando tecnología cross-platform emerge como una solución potencial para abordar estos desafíos. Sin embargo, es necesario realizar una investigación exhaustiva para identificar los requisitos específicos de la empresa Plata 3, evaluar las tecnologías cross-platform disponibles y sus capacidades para satisfacer estas necesidades, y diseñar e implementar una aplicación que sea escalable, robusta y fácil de usar. Este proyecto busca abordar estas cuestiones y proporcionar una solución viable para mejorar la gestión del inventario en la empresa.
 
 1.3	Objetivos del Proyecto
+
 Objetivo General:
+
 Desarrollar una aplicación utilizando tecnología cross-platform para el manejo eficiente del inventario en la empresa plata 3, con el fin de mejorar la visibilidad, precisión y control de los activos, optimizando así las operaciones y recursos de la empresa.
 
 Objetivos Específicos:

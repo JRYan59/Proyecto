@@ -17,7 +17,8 @@ Por lo tanto, el desarrollo de una aplicación de gestión de inventario utiliza
 Objetivo General:
 Desarrollar una aplicación utilizando tecnología cross-platform para el manejo eficiente del inventario en la empresa plata 3, con el fin de mejorar la visibilidad, precisión y control de los activos, optimizando así las operaciones y recursos de la empresa.
 
-	Objetivos Específicos:
+Objetivos Específicos:
+
 •	Realizar un análisis exhaustivo de los requisitos y necesidades específicas de gestión de inventario en la empresa.
 
 •	Investigar y evaluar las tecnologías cross-platform disponibles para determinar la más adecuada para el desarrollo de la aplicación.

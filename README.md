@@ -15,7 +15,7 @@ Esta empresa posee 5 departamentos los cuales son: Ventas, Administración, Mark
 
 •	Toma decisiones estratégicas para la empresa.
 
-3. Servicio Técnico (EMMANUEL):
+2. Servicio Técnico (EMMANUEL):
    
 •	Brinda soporte técnico y mantiene los sistemas informáticos.
 
@@ -25,19 +25,19 @@ Funciones específicas:
 
 •	Tester (JOSÉ): Realiza pruebas en sistemas y software.
 
-5. Administración (AQUELIS):
+3. Administración (AQUELIS):
    
 •	Gestiona tareas administrativas, finanzas y recursos humanos.
 
 •	Mantiene el funcionamiento eficiente de la empresa.
 
-7. Marketing (NATACHA):
+4. Marketing (NATACHA):
    
 •	Promociona los productos o servicios de la empresa.
 
 •	Aumenta las ventas y la visibilidad de la marca.
 
-9. Ventas (EMMANUEL):
+5. Ventas (EMMANUEL):
     
 •	Encargado de las ventas y el cumplimiento de objetivos de ingresos.
 

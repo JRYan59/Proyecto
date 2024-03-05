@@ -10,24 +10,29 @@ Esta empresa posee 5 departamentos los cuales son: Ventas, Administración, Mark
 ![Organigrama](https://github.com/JRYan59/Proyecto/assets/66745384/18250652-dc69-4ed1-b8c7-51d20c6494b3)
 
 1. Director (VICTOR):
+   
 •	Supervisa todos los departamentos.
 •	Toma decisiones estratégicas para la empresa.
 
-2. Servicio Técnico (EMMANUEL):
+3. Servicio Técnico (EMMANUEL):
+   
 •	Brinda soporte técnico y mantiene los sistemas informáticos.
 Funciones específicas:
 •	Técnico (ANDRÉS): Resuelve problemas técnicos y realiza mantenimiento.
 •	Tester (JOSÉ): Realiza pruebas en sistemas y software.
 
-4. Administración (AQUELIS):
+5. Administración (AQUELIS):
+   
 •	Gestiona tareas administrativas, finanzas y recursos humanos.
 •	Mantiene el funcionamiento eficiente de la empresa.
 
-5. Marketing (NATACHA):
+7. Marketing (NATACHA):
+   
 •	Promociona los productos o servicios de la empresa.
 •	Aumenta las ventas y la visibilidad de la marca.
 
-6. Ventas (EMMANUEL):
+9. Ventas (EMMANUEL):
+    
 •	Encargado de las ventas y el cumplimiento de objetivos de ingresos.
 Funciones específicas:
 •	Vendedor (ANDRÉS & LUBIESKA): Realiza ventas directas a los clientes.

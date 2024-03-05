@@ -22,22 +22,23 @@ Desarrollar una aplicación utilizando tecnología cross-platform para el manejo
 
 Objetivos Específicos:
 
-•	Realizar un análisis exhaustivo de los requisitos y necesidades específicas de gestión de inventario en la empresa.
+•	Realizar un análisis exhaustivo de los requisitos, mediante tecnicas de recolección de datos para diagnosticar que necesidades deben ser atendidas según prioridades en el departamento de inventario.
 
 •	Investigar y evaluar las tecnologías cross-platform disponibles para determinar la más adecuada para el desarrollo de la aplicación.
 
-•	Diseñar una interfaz de usuario intuitiva y funcional que permita el fácil acceso y manejo de las funciones de gestión de inventario.
+•	Diseñar una interfaz de usuario intuitiva y funcional que permita el fácil acceso y manejo de las funciones de gestión en el departamento de inventario.
 
-•	Desarrollar un sistema de seguimiento de inventario que garantice la precisión y actualización de los datos.
+•	Diseñar e implementar un sistema de seguimiento de inventario que garantice la precisión y actualización de los datos, cumpliendo con las normativas establecidas por la empresa.
 
-•	Realizar pruebas exhaustivas de la aplicación para garantizar su fiabilidad, rendimiento y compatibilidad con diferentes dispositivos.
+•	Llevar a cabo pruebas exhaustivas de la aplicación de seguimiento de inventario para garantizar su fiabilidad, rendimiento y compatibilidad con diferentes dispositivos, asegurando su correcto funcionamiento en distintos escenarios operativos.
 
-•	Capacitar al personal de la industria de equipos en el uso efectivo de la aplicación.
+•	Proporcionar capacitación al personal en el uso efectivo de la aplicación de seguimiento de inventario, mediante inducciones en departamento de inventario.
 
-•	Evaluar el impacto de la aplicación en la gestión del inventario, identificando mejoras en la eficiencia operativa, reducción de costos y aumento de la productividad.
+•	Evaluar el impacto de la aplicación de seguimiento de inventario en la gestión del inventario, mediante consultas o formularios para identificar mejoras en la eficiencia operativa, reducción de costos y aumento de la productividad en el departamento de inventario y áreas relacionadas.
 
 1.4 Justificación del Proyecto
 
 La empresa Plata 3 enfrenta desafíos significativos en la gestión de su inventario debido a la falta de herramientas tecnológicas adecuadas, lo que resulta en problemas como falta de visibilidad sobre los niveles de existencias y tiempo de inactividad de equipos debido a piezas faltantes. Esta situación se agrava por la diversidad de dispositivos y sistemas operativos en su entorno empresarial, lo que limita la eficacia de las soluciones existentes.
 Para abordar estos desafíos, se propone el desarrollo de una aplicación utilizando tecnología cross-platform. Esta solución permitirá una gestión más eficiente del inventario al proporcionar una única aplicación compatible con diversos dispositivos y sistemas operativos. Esto simplificará el proceso de desarrollo y garantizará una mayor accesibilidad para el personal de Plata 3.
 La implementación de esta aplicación no solo mejorará la visibilidad y control del inventario, sino que también optimizará las operaciones y recursos de la empresa.
+

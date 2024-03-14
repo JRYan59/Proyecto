@@ -7,43 +7,43 @@ FASE INVESTIGATIVA
 La empresa de Plata 3 Computer fue establecida el 10 de noviembre de 2021, marcando así su inicio en el mundo empresarial. En ese momento, los fundadores identificaron una oportunidad en el mercado y decidieron emprender este proyecto. Es importante considerar que esta empresa se dedica a vender equipos lo que implica una variedad de actividades que van desde la adquisición de equipos hasta su comercialización y distribución. Estos equipos son en su mayoría refurbished (repotenciados), lo cual es bastante comercial debido a que son más económicos.
 Esta empresa posee 5 departamentos los cuales son: Ventas, Administración, Marketing, Servicio Técnico, Compras, y está Organizada de la siguiente forma:
 
-![Organigrama](https://github.com/JRYan59/Proyecto/assets/66745384/18250652-dc69-4ed1-b8c7-51d20c6494b3)
+![Organigrama](https://github.com/JRYan59/Proyecto/assets/66745384/a33e254f-b0b0-4d69-bb6e-d8a485536544)
 
-1. Director (VICTOR):
+1. Director:
    
 •	Supervisa todos los departamentos.
 
 •	Toma decisiones estratégicas para la empresa.
 
-2. Servicio Técnico (EMMANUEL):
+2. Servicio Técnico:
    
 •	Brinda soporte técnico y mantiene los sistemas informáticos.
 
 Funciones específicas:
 
-•	Técnico (ANDRÉS): Resuelve problemas técnicos y realiza mantenimiento.
+•	Técnico: Resuelve problemas técnicos y realiza mantenimiento.
 
-•	Tester (JOSÉ): Realiza pruebas en sistemas y software.
+•	Tester: Realiza pruebas en sistemas y software.
 
-3. Administración (AQUELIS):
+3. Administración:
    
 •	Gestiona tareas administrativas, finanzas y recursos humanos.
 
 •	Mantiene el funcionamiento eficiente de la empresa.
 
-4. Marketing (NATACHA):
+4. Marketing:
    
 •	Promociona los productos o servicios de la empresa.
 
 •	Aumenta las ventas y la visibilidad de la marca.
 
-5. Ventas (EMMANUEL):
+5. Ventas:
     
 •	Encargado de las ventas y el cumplimiento de objetivos de ingresos.
 
 Funciones específicas:
 
-•	Vendedor (ANDRÉS & LUBIESKA): Realiza ventas directas a los clientes.
+•	Vendedor: Realiza ventas directas a los clientes.
 
 1.2	Diagnóstico Del Problema
 
@@ -61,7 +61,7 @@ Objetivos Específicos:
 
 •	Realizar un análisis exhaustivo de los requisitos, mediante tecnicas de recolección de datos para diagnosticar que necesidades deben ser atendidas según prioridades en el departamento de inventario.
 
-•	Investigar y evaluar las tecnologías cross-platform disponibles para determinar la más adecuada para el desarrollo de la aplicación.
+•	Investigar las tecnologías cross-platform disponibles para determinar la más adecuada para el desarrollo de la aplicación.
 
 •	Diseñar una interfaz de usuario intuitiva y funcional que permita el fácil acceso y manejo de las funciones de gestión en el departamento de inventario.
 

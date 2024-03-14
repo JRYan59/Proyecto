@@ -4,7 +4,7 @@ FASE INVESTIGATIVA
 
 1.1	Identificación Del Contexto
 
-La empresa de Plata 3 Computer fue establecida el 10 de noviembre de 2021, marcando así su inicio en el mundo empresarial. En ese momento, los fundadores identificaron una oportunidad en el mercado y decidieron emprender este proyecto. Es importante considerar que esta empresa se dedica a vender equipos lo que implica una variedad de actividades que van desde la adquisición de equipos hasta su comercialización y distribución. Estos equipos son en su mayoría refurbished (repotenciados), lo cual es bastante comercial ya que son más económicos.
+La empresa de Plata 3 Computer fue establecida el 10 de noviembre de 2021, marcando así su inicio en el mundo empresarial. En ese momento, los fundadores identificaron una oportunidad en el mercado y decidieron emprender este proyecto. Es importante considerar que esta empresa se dedica a vender equipos lo que implica una variedad de actividades que van desde la adquisición de equipos hasta su comercialización y distribución. Estos equipos son en su mayoría refurbished (repotenciados), lo cual es bastante comercial debido a que son más económicos.
 Esta empresa posee 5 departamentos los cuales son: Ventas, Administración, Marketing, Servicio Técnico, Compras, y está Organizada de la siguiente forma:
 
 ![Organigrama](https://github.com/JRYan59/Proyecto/assets/66745384/18250652-dc69-4ed1-b8c7-51d20c6494b3)

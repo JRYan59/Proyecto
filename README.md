@@ -102,6 +102,7 @@ En el contexto de los inventarios en una organización, investigaciones como las
 •	Métodos de evaluación y pruebas: Es esencial incorporar métodos de evaluación y pruebas durante todo el proceso de implementación para garantizar la calidad y fiabilidad de la aplicación Odoo. Esto puede incluir pruebas unitarias, pruebas de integración, pruebas de aceptación del usuario, entre otras, para identificar y corregir posibles errores y asegurar que la aplicación cumpla con los requisitos y expectativas del cliente.
 
 2.3 Definición de Términos
+
 •	Modelo ABC (Análisis de Pareto): Este modelo clasifica los elementos en función de su importancia relativa. Se basa en el principio de que aproximadamente el 20% de los elementos contribuyen al 80% del valor total. En el contexto de la gestión de inventario, se utiliza para priorizar la atención en los elementos más críticos.
 •	EOQ (Cantidad Económica de Pedido): Este modelo determina la cantidad óptima que debe ser ordenada para minimizar los costos totales de inventario, incluyendo costos de mantenimiento de inventario y costos de pedido.
 •	JIT (Justo a Tiempo): JIT es una filosofía de gestión de inventario que busca reducir al mínimo el inventario al mantener solo la cantidad necesaria para satisfacer la demanda inmediata. Se basa en la producción y entrega de productos justo en el momento en que son necesarios.
